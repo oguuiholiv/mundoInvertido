@@ -1,1 +1,1 @@
-Este projeto foi realizado junto a Dio e tem por finalidade demonstrar meu conhecimento em html/css/javascript. Um belo projeto baseado na série Stranger Things.
+Este projeto foi desenvolvido em colaboração com a Dio para demonstrar meu domínio em HTML, CSS e JavaScript. Ele é inspirado na série Stranger Things, capturando a essência do mundo sombrio e misterioso da série. Com foco em design responsivo, animações dinâmicas e interatividade, este projeto destaca minhas habilidades e criatividade na construção de experiências web envolventes e visualmente atraentes.
