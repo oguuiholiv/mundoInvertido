@@ -1,0 +1,1 @@
+Este projeto foi realizado junto a Dio e tem por finalidade demonstrar meu conhecimento em html/css/javascript. Um belo projeto baseado na série Stranger Things.
